@@ -12,7 +12,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-
 @allure.title("flipkart positive test case for search results")
 @allure.description("TC! on flipkart search results")
 

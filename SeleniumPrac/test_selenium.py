@@ -4,7 +4,6 @@ import allure
 import pytest
 
 @allure.title("Open the app.vwo.com")
-@pytest.mark.regression
 
 def test_vwo_login():
     driver = webdriver.Chrome()
@@ -12,5 +11,5 @@ def test_vwo_login():
     #2. POST request - browserDriver(server)
     #3 Where it will create session or fresh copy browser(Chrome)
     
-    driver.get("https://app.vmo.com")
+    driver.get("https://app.vwo.com")
     time.sleep(15)
