@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25f02013-bcca-4d0e-95c1-4e2ff15a967b" name="Changes" comment="added 3 programs" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VigneshYR&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VigneshYR/Selenium_automation.git&quot;,
+    &quot;accountId&quot;: &quot;a4a2554d-1629-4e7d-a04e-e387aba8ab2e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="38qJGLCE17c6ChJGvnctbyonlXT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.pytest for test02_seleniumlocators.test_vwo_login.executor": "Run",
+    "Python tests.pytest for test03_seleniumlocators4flipkartSearch.test_flipkart_seasrchResults.executor": "Run",
+    "Python tests.pytest for test04_seleniumAutosuggestions.test_seleniumautosugges.executor": "Run",
+    "Python tests.pytest for test05_.test_vwo_login.executor": "Run",
+    "Python tests.pytest for test05_errMsgLogin.test_vwo_login.executor": "Run",
+    "Python tests.pytest for test07_seleniumoptions.test_vwo_login.executor": "Run",
+    "Python tests.pytest for test_06Linkloc.test_vwo_login.executor": "Run",
+    "Python tests.pytest for test_06Linkloca.test_vwo_login.executor": "Run",
+    "Python tests.pytest for test_08_Seleniumlist_ebay.test_ebay.executor": "Run",
+    "Python tests.pytest for test_seleniumoptions.test_vwo_login.executor": "Run",
+    "Python tests.pytest in test01_seleniumlocators.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/SeleniumPrac/Locators" />
+      <recent name="$PROJECT_DIR$/SeleniumPrac" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pytest for SeleniumPrac.Locators.test_03_seleniumlocators4flipkartSearch.test_flipkart_seasrchResults" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingPrac" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumPrac/Locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SeleniumPrac.Locators.test_03_seleniumlocators4flipkartSearch.test_flipkart_seasrchResults&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for SeleniumPrac.Locators.test_04_seleniumAutosuggestions.test_seleniumautosugges" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingPrac" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumPrac/Locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SeleniumPrac.Locators.test_04_seleniumAutosuggestions.test_seleniumautosugges&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for SeleniumPrac.Locators.test_05_errMsgLogin.test_vwo_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingPrac" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumPrac/Locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SeleniumPrac.Locators.test_05_errMsgLogin.test_vwo_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for SeleniumPrac.Locators.test_05_seleniumoptions" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingPrac" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumPrac/Locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SeleniumPrac.Locators.test_05_seleniumoptions&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for SeleniumPrac.Locators.test_06_Seleniumlist_ebay.test_ebay" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingPrac" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumPrac/Locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SeleniumPrac.Locators.test_06_Seleniumlist_ebay.test_ebay&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for SeleniumPrac.locators.test06_Linkloc.test_vwo_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingPrac" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumPrac/locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SeleniumPrac.locators.test06_Linkloc.test_vwo_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for SeleniumPrac.Locators.test_06_Seleniumlist_ebay.test_ebay" />
+        <item itemvalue="Python tests.pytest for SeleniumPrac.Locators.test_05_errMsgLogin.test_vwo_login" />
+        <item itemvalue="Python tests.pytest for SeleniumPrac.Locators.test_04_seleniumAutosuggestions.test_seleniumautosugges" />
+        <item itemvalue="Python tests.pytest for SeleniumPrac.Locators.test_03_seleniumlocators4flipkartSearch.test_flipkart_seasrchResults" />
+        <item itemvalue="Python tests.pytest for SeleniumPrac.Locators.test_05_seleniumoptions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25f02013-bcca-4d0e-95c1-4e2ff15a967b" name="Changes" comment="" />
+      <created>1769521075445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769521075445</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added 3 programs">
+      <option name="closed" value="true" />
+      <created>1769688795876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769688795876</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added 3 programs">
+      <option name="closed" value="true" />
+      <created>1769689955336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769689955336</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added 3 programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 3 programs" />
+  </component>
+</project>
