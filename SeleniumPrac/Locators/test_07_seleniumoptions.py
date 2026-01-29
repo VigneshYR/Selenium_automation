@@ -8,9 +8,10 @@ from selenium.webdriver.chrome.options import Options
 @allure.title("Open the app.vwo.com")
 @pytest.mark.regression
 
-def test_vwo_login():
+def test_katalon():
     chrome_options = Options()
     driver = webdriver.Chrome(chrome_options)
+    #using Chrome-options - headless provide a mode of automating test case without looking into UI and also it has features like maximise with customise resolution
     chrome_options.add_argument("--headless")
     #<a id="btn-make-appointment"
     # href="./profile.php#login"

@@ -4,10 +4,11 @@ import allure
 import pytest
 from selenium.webdriver.common.by import By
 
-@allure.title("Open the app.vwo.com")
-@pytest.mark.regression
+@allure.title("Make an appointment")
+@allure.description("Go through the katalon website and make an appointment")
+@pytest.mark.positive
 
-def test_vwo_login():
+def test_katalon_makeAppointment():
     driver = webdriver.Chrome()
     #<a id="btn-make-appointment"
     # href="./profile.php#login"
